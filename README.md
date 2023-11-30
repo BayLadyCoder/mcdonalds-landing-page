@@ -1,1 +1,1 @@
-# tailwind-landing-page
+# mcdonalds-landing-page
