@@ -1,1 +1,0 @@
-# mcdonalds-landing-page
