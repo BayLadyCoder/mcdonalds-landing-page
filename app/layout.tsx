@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: "NextJS McDonald's",
+  title: "WcDonald's",
   description: "Designed and inspired by McDonald's",
 };
 
